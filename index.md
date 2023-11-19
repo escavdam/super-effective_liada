@@ -1,6 +1,5 @@
-# Indice
- Diferentes temas de los que trato en mi pagina.
+# Super Effective
 
- - [Press F to Pay Respect](./posts/press_f_to_pay_respects.md), de *Wikipedia*
- - [Reseña de Pokemon Esmeralda](./posts/reseña_pokemon.md), de *Vandal Pokemon*
- - [This is fine](./posts/this_is_fine.md), de *RTVE*
+## Posts
+
+[Lo que se espera de nosotros](/posts/lo_que_se_espera_de_nosotros.md), por *Diego*
